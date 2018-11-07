@@ -1,6 +1,7 @@
+![42 logo](https://i.imgur.com/fAwygL9.png)
+
 # piscine-42
 Piscine 2018 a 42 Paris (France)
-
 
 - DAY00 - 100%
 - DAY01 - 100%
